@@ -72,6 +72,8 @@ const unitLengthX = width / cellsHorizontal;
 const unitLengthY = height / cellsVertical;
 const engine = Engine.create();
 
+
+
 // Gravity toggle
 engine.world.gravity.y = 0;
 
