@@ -73,7 +73,7 @@ const unitLengthY = height / cellsVertical;
 const engine = Engine.create();
 
 // Gravity toggle
-engine.world.gravity.y = 0;
+engine.world.gravity.y = 1;
 
 const { world } = engine;
 const render = Render.create({
