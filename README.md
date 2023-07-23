@@ -6,6 +6,5 @@ Use WASD to control the ball.
 
 This is a web apllication that makes use of JS libraries to create the physics affect seen in the game.
 
-Im updating the maze game Brad.
 
 
