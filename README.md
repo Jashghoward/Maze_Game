@@ -21,6 +21,8 @@ Fucnctionality to add:
 
 - A color change toggle, add in the ability to change the color of the board.
 
+- A settings screen where all of the buttons can be placed. This will make it easy for the user to change the settigns of the game from one place.
+
 
 
 
