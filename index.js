@@ -63,8 +63,8 @@
 // MAZE
 const { Engine, Render, Runner, World, Bodies, Body, Events } = Matter;
 
-const cellsHorizontal = 10;
-const cellsVertical = 12;
+const cellsHorizontal = 20;
+const cellsVertical = 20;
 const width = window.innerWidth;
 const height = window.innerHeight;
 
@@ -73,7 +73,7 @@ const unitLengthY = height / cellsVertical;
 const engine = Engine.create();
 
 // Gravity toggle
-engine.world.gravity.y = 1;
+engine.world.gravity.y = 0;
 
 const { world } = engine;
 const render = Render.create({
