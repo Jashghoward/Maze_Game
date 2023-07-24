@@ -17,6 +17,10 @@ When using the directional keys, if there are multiple taps on one key the ball 
 
 Fucnctionality to add: 
 
-a gravity toggle that will turn the gravity on or off from the home screen. This will be a button that when pressed will turn the gravity of the board on or off.
+- A gravity toggle that will turn the gravity on or off from the home screen. This will be a button that when pressed will turn the gravity  of the board on or off.
+
+- A color change toggle, add in the ability to change the color of the board.
+
+
 
 
