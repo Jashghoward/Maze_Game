@@ -15,3 +15,8 @@ The ball going throught the wall.
 
 When using the directional keys, if there are multiple taps on one key the ball can go through the walls of the maze.
 
+Fucnctionality to add: 
+
+a gravity toggle that will turn the gravity on or off from the home screen. This will be a button that when pressed will turn the gravity of the board on or off.
+
+
