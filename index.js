@@ -61,12 +61,15 @@
 // }
 
 // MAZE
+
 const { Engine, Render, Runner, World, Bodies, Body, Events } = Matter;
 
 const cellsHorizontal = 20;
 const cellsVertical = 20;
 const width = window.innerWidth;
 const height = window.innerHeight;
+
+
 
 const unitLengthX = width / cellsHorizontal;
 const unitLengthY = height / cellsVertical;
@@ -89,8 +92,6 @@ Render.run(render);
 Runner.run(Runner.create(), engine);
 
 // Walls
-
-
 const walls = [
   //Top
   Bodies.rectangle(width / 2, 0, width, 2, {
