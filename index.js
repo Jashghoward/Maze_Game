@@ -123,7 +123,6 @@ const shuffle = (arr) => {
     arr[counter] = arr[index];
     arr[index] = temp;
   }
-
   return arr;
 };
 
