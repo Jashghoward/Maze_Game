@@ -89,6 +89,8 @@ Render.run(render);
 Runner.run(Runner.create(), engine);
 
 // Walls
+
+
 const walls = [
   //Top
   Bodies.rectangle(width / 2, 0, width, 2, {
