@@ -23,6 +23,8 @@ Fucnctionality to add:
 
 - A settings screen where all of the buttons can be placed. This will make it easy for the user to change the settigns of the game from one place.
 
+- Change the style so that there the colors are easier on the eyes.
 
+- 
 
 
