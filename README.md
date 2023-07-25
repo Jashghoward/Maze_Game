@@ -25,6 +25,4 @@ Fucnctionality to add:
 
 - Change the style so that there the colors are easier on the eyes.
 
-- 
-
 
