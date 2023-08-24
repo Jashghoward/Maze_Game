@@ -60,8 +60,6 @@
 //   }
 // }
 
-
-
 // MAZE
 
 const { Engine, Render, Runner, World, Bodies, Body, Events } = Matter;
